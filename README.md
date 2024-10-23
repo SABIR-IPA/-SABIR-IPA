@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: I,M MUHAMMAD SABIR
 - 🔭 I’m currently working on: __Mobile Apps iOS Developer__ <br>- 🌱 I’m currently learning: __Deep Learning/Machine Learning/Medical Imaging__<br>- 💬 Ask me about __Swift, iOS development,  Python, Pytorch, ResUNET...__<br>- 🧧 Chinese name: __沉平__<br>- ⚡ Fun fact: Having grown up in Pakistan
 
 
